@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-The realest Ivan !
+The realest Ivan + Kris Dreemurr!
 </p>
 
 <p align="center">
@@ -20,6 +20,10 @@ Andrew , 21 / 06 / 2026 <3
 
 <p align="center">
   https://scriptedbyivan.straw.page
+</p>
+
+<p align="center">
+https://krisdeltaruned.straw.page
 </p>
 
 
