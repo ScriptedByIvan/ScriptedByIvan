@@ -22,9 +22,6 @@ Andrew , 21 / 06 / 2026 <3
   https://scriptedbyivan.straw.page
 </p>
 
-<p align="center">
-https://krisdeltaruned.straw.page
-</p>
 
 
 
