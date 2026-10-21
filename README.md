@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-The realest Ivan + Kris Dreemurr!
+The realest Ivan + Tord!
 </p>
 
 <p align="center">
